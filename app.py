@@ -31,3 +31,6 @@ print(learning.find("Python"))
 # this returns a -1 because the letter x is NOT in the string
 print(learning.find("x"))
 
+# this replaced the word Learning for Learned in the string
+print(learning.replace("Learning", "Learned"))
+
