@@ -11,4 +11,5 @@ print("Your age is " + str(age))
 
 number1 = input("Enter a number ")
 number2 = input("Enter a second number ")
-print(int(number1) + int(number2))
+sum = float(number1) + float(number2)
+print("The sum of your two numbers is " + str(sum))
