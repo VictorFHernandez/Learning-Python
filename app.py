@@ -19,3 +19,6 @@ learning = "Learning Python"
 # this returns the string uppercased
 print(learning.upper())
 
+# this returns the string lowercased
+print(learning.lower())
+
