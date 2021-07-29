@@ -34,3 +34,5 @@ print(learning.find("x"))
 # this replaced the word Learning for Learned in the string
 print(learning.replace("Learning", "Learned"))
 
+# this returns a boolean depending if the word or letter is in the string
+print("Python" in learning)
