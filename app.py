@@ -22,3 +22,5 @@ print(learning.upper())
 # this returns the string lowercased
 print(learning.lower())
 
+# this returns the index of y
+print(learning.find("y"))
