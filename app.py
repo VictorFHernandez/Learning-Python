@@ -24,3 +24,7 @@ print(learning.lower())
 
 # this returns the index of y
 print(learning.find("y"))
+
+# this returns the index of the word Python in the string
+print(learning.find("Python"))
+
