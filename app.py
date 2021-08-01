@@ -36,3 +36,11 @@ print(learning.replace("Learning", "Learned"))
 
 # this returns a boolean depending if the word or letter is in the string
 print("Python" in learning)
+
+# different math operators, the '//' returns an rounded up numbers of the division and the  '**' is to the power of
+print(10 + 3)
+print(10 - 3)
+print(10 * 3)
+print(10 / 3)
+print(10 // 3)
+print(10 ** 3)
