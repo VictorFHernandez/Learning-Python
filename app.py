@@ -44,3 +44,22 @@ print(10 * 3)
 print(10 / 3)
 print(10 // 3)
 print(10 ** 3)
+
+# if statement
+# Note to  end the indentation on the if block press the shift and tab buttons
+# Note elif means else if
+# Note else will be executed if none of the above statements are true
+
+temperature = 95
+if temperature > 90:
+    print("it's a hot day")
+    print("drink plenty of water")
+elif temperature > 80:
+    print("it's a nice day")
+elif temperature > 70:
+    print("it's a bit cold outside")
+else:
+    print("it's a cold day")
+
+
+
